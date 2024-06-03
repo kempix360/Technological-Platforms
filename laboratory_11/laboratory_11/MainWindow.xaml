@@ -1,0 +1,14 @@
+﻿<Window x:Class="laboratory_11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Laboratory 11" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="10">
+            <Button Name="ButtonNewton1" Content="Oblicz Symbol Newtona" Click="ButtonNewton_Click" Margin="5"/>
+            <Button Name="ButtonFibonacci" Content="Oblicz i-ty wyraz ciągu Fibonacciego" Click="ButtonFibonacci_Click" Margin="5"/>
+            <Button Name="ButtonCompress" Content="Skompresuj pliki" Click="ButtonCompress_Click" Margin="5"/>
+            <ProgressBar Name="ProgressBarFibonacci" Height="20" Margin="5"/>
+            <TextBlock Name="TextBlockResult" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\bin\Debug\net8.0\laboratory_7.exe
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\bin\Debug\net8.0\laboratory_7.deps.json
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\bin\Debug\net8.0\laboratory_7.runtimeconfig.json
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\bin\Debug\net8.0\laboratory_7.dll
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\bin\Debug\net8.0\laboratory_7.pdb
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\laboratory_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\laboratory_7.AssemblyInfoInputs.cache
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\laboratory_7.AssemblyInfo.cs
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\laboratory_7.csproj.CoreCompileInputs.cache
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\laboratory_7.dll
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\refint\laboratory_7.dll
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\laboratory_7.pdb
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\laboratory_7.genruntimeconfig.cache
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_7\laboratory_7\obj\Debug\net8.0\ref\laboratory_7.dll

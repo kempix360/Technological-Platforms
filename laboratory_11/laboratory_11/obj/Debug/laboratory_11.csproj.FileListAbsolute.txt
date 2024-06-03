@@ -1,0 +1,14 @@
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\bin\Debug\laboratory_11.exe.config
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\bin\Debug\laboratory_11.exe
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\bin\Debug\laboratory_11.pdb
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11.csproj.AssemblyReference.cache
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\MainWindow.baml
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\MainWindow.g.cs
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\App.g.cs
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11_MarkupCompile.cache
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11.g.resources
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11.Properties.Resources.resources
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11.csproj.GenerateResource.cache
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11.csproj.CoreCompileInputs.cache
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11.exe
+C:\Users\ArthurMorgan\OneDrive\Desktop\4_semestr\Platformy_technologiczne\laboratory_11\laboratory_11\obj\Debug\laboratory_11.pdb
